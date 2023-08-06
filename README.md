@@ -1,5 +1,6 @@
 ### Hi there I'm Juliette! :D
 
+https://gifdb.com/images/high/kirby-running-around-35wzgn2v6j2bmcww.gif
 <!--
 **J-LG30/J-LG30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
