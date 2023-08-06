@@ -1,6 +1,6 @@
 ### Hi there I'm Juliette! :D
 
-
+<div class="tenor-gif-embed" data-postid="15571439" data-share-method="host" data-aspect-ratio="1.76796" data-width="100%"><a href="https://tenor.com/view/mini-kirby-running-walking-outside-gif-15571439">Mini Kirby GIF</a>from <a href="https://tenor.com/search/mini-gifs">Mini GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <!--
 **J-LG30/J-LG30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
