@@ -1,7 +1,9 @@
-[suki_blep](https://github.com/user-attachments/assets/e954d16e-9baa-49a7-8786-a5868f64da34)
+![suki_blep](https://github.com/user-attachments/assets/e954d16e-9baa-49a7-8786-a5868f64da34)
 ### Hi there, I'm Juliette :)
 
 - I'm a programming student at 42 Lisboa, currently on rank 5 of the Common Core. I have worked with C and C++ in my studies, and am trying to learn Python on the side!
+
+(and above is a GIANT size picture of my beloved cat, Suki)
 <!--
 **J-LG30/J-LG30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
