@@ -1,4 +1,4 @@
-![mini-kirby](https://github.com/J-LG30/J-LG30/assets/107129001/e276f765-37d6-4625-9410-e52af1cb9352)
+[suki_blep](https://github.com/user-attachments/assets/e954d16e-9baa-49a7-8786-a5868f64da34)
 ### Hi there, I'm Juliette :)
 
 - I'm a programming student at 42 Lisboa, currently on rank 5 of the Common Core. I have worked with C and C++ in my studies, and am trying to learn Python on the side!
